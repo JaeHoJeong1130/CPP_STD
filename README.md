@@ -1,5 +1,5 @@
 # CPP_STD
-Rookiss의 C++ 언리얼 강의
+
 
 ## 설명
 인프런 Rookiss님의 강의 학습&정리
